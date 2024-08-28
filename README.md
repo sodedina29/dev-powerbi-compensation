@@ -1,1 +1,1 @@
-# dev_powerbi_compensation repository
+# dev-powerbi-compensation repository
